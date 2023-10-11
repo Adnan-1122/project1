@@ -1,0 +1,542 @@
+
+.row{
+    overflow: hidden;
+    /* padding-right: 40px; */
+     margin: 0;
+    padding: 0; 
+}
+
+body{
+    background: rgb(1, 16, 32);
+    margin: 0;
+    padding: 0;
+    padding-top: -50px;
+}
+.navbar-brand{
+    text-transform: uppercase;
+    font-size: 22px;
+    font-weight: 500;
+}
+
+
+.btn-sign{
+    margin-left: 20px;
+    padding: 10px;
+    width: 100px;
+    border-radius: 10px;
+    background: #FF4820;
+    color: #fff;
+    border: none;
+}
+.text1{
+    background: url(./image2/blur-01.png);
+    width: 100vh;
+    height: 100%;
+     top: -305px;
+    left: -336px;
+  background: rgb(1, 16, 32);
+}
+.text2{
+    
+    padding-top: 80px;
+    font-size: 30px;
+    font-weight: 700;
+    width: 500px;
+}
+.hero-img{
+    position: relative;
+    width: 100vh;
+    height: 100%;
+    padding-left: -100px;
+}
+.para1{
+    color: rgba(129, 175, 221, 1);
+    font-size: 20px;
+    font-weight: 400;
+} 
+.hero{
+    width:600px;
+    height: 500px;
+    color: rgba(7, 45, 86, 1);
+    padding-left: 80px;
+    padding-top: 10px;
+}
+.email{
+    padding-left: 50px;
+    width: 70%;
+    background: #072D56;
+    border: none;
+    height: 6%;
+}
+.btn{
+    color: #fff;
+    background:  rgba(255, 72, 32, 1);
+}
+.small{
+    width: 150px;
+}
+.para{
+    display: flex;
+    float: right;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 500;
+    margin-right: 200px;
+}
+.icon{
+    display: flex;
+    float: left;
+    padding-left: 300px;
+    padding-top: 30px;
+}
+.google, .slack, .at, .drop, .shop {
+    width: 60px;
+    margin-left: 50px;
+    text-align: center;
+    color: rgba(104, 108, 117, 1);
+    font-size: 10px;
+    font-weight: 400;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.text3{
+    margin-top: -10px;
+}
+.text4{
+    display: flex;
+    float: left;
+}
+.explore{
+    padding-top: 80px;
+} 
+.text7{
+    float: right;
+    margin-top: 140px;
+}
+.gpt{
+    color: #fff;
+}
+.the{
+    padding-top: 100px;
+}
+.text5{
+    color: rgba(129, 175, 221, 1);
+    font-size: 15px;
+    font-weight: 500;
+
+} 
+.text6{
+    float: left;
+    height: 200px;
+    margin-top: 300px;
+}
+.road{
+    display: flex;
+    float: right;
+    margin-right: -300px;
+    margin-top: -100px;
+}
+.text8{
+    padding-top: 80px;
+}  
+.row1{
+    padding-top: 100px;
+    background: rgba(15, 66, 121, 1);
+    display: flex;
+}
+.text9{
+    padding-top: 100px;
+    /* background: rgba(7, 50, 95, 1); */
+    width: 100px;
+}
+.future{
+    width: 350%;
+}
+.text10{
+    padding-top: 100px;
+    font-size: 100px;
+    font-weight: 800;
+    width: 590px;
+    height: 428px;
+    top: 1943px;
+    left: 704px;
+    border: 1px;
+    border: 1px solid rgba(0, 0, 0, 1);
+    border: none;
+}
+.text12{
+    padding-top: 150px;
+}
+.feature{
+    width: 550px;
+    height: 600px;
+}
+.para3{
+    padding-top: 400px;
+    color:  rgba(113, 229, 255, 1);
+    font-size: 13px;
+}
+.para4{
+    padding-top: 20px;
+    color: rgba(255, 138, 113, 1);
+    font-size: 13px;
+    font-weight: 500;
+}
+.para5{
+    font-size: 14px;
+    font-weight: 400;
+    color: rgba(129, 175, 221, 1);
+}
+.btn-get{
+    margin-right: 40px;
+    padding: 15px;
+    width: 150px;
+    border-radius: 30px;
+    background: black;
+    color: #fff;
+    border: none;
+    float: right;
+    margin-top: -60px;
+    text-transform: capitalize;
+
+
+
+}
+.para6{
+    margin-top: 30px;
+    font-size: 24px;
+    font-weight: 800;
+    padding-left: 20px;
+    color: rgba(0, 0, 0, 1);
+
+
+}
+#box{
+    width: 100%;
+    height: 150px;
+    background: url(./image2/Rectangle\ 26.png);
+    display: inline-block;
+    border-radius: 10px;
+
+}
+.text13{
+    padding-top: 100px;
+}
+.hilight{
+    font-size: 12px;
+    font-weight: 500;
+    padding-left: 20px;
+    padding-top: 50px;
+    color: rgba(14, 14, 14, 1);
+
+}
+.imm{
+    width: 650px;
+    height: 130px;
+} 
+.text14{
+    padding-top: 100px;
+}
+.mmm{
+    width: 300px;
+    height: 300px;
+    padding-top: 90px;
+}
+.text15{
+    background: rgba(4, 44, 84, 1);
+    padding-top: 20px;
+    color: #fff;
+    padding-left: 30px;
+    width: 300px;
+    height: 460px;
+}
+.para7,.para8, .para9, .para10, .para11{
+    font-size: 11px;
+    font-weight: 700;
+}
+.ime{
+    width: 300px;
+    height: 130px;
+}
+.text16{
+    padding-top: 320px;
+}
+.text17, .text19, .text21, .text23{
+    background: rgba(4, 44, 84, 1);
+    padding-top: 20px; 
+    color: #fff;
+    padding-left: 30px;
+    width: 300px;
+    height: 190px;
+
+}
+.text18, .text22{
+    padding-top: 30px;
+}
+.imma, .imme{
+    width: 300px;
+    height: 130px;
+}
+.text20{
+    padding-top: 320px;
+}
+.sinzo{
+    display: flex;
+}
+.para12{
+    padding-top: 120px;
+    font-size: 10px;
+    font-weight: 500;
+
+}
+.para13{
+    padding-top: 30px;
+    font-size: 10px;
+    font-weight: 500;
+}
+.foot{
+    padding-top: 200px;
+    padding-left: 200px;
+}
+.footer{
+    padding-top: 150px;
+}
+.step{
+    height: 100px;
+}
+.foter1 button {
+    padding: 15px;
+    /* background: #fff; */
+    color: #fff;
+    padding: 1px 1px;
+    background: transparent; 
+    text-transform: capitalize;
+}
+.footer1{
+    padding-top: 150px;
+    text-align: center;
+    padding: 2opx;
+}
+.text30{
+    padding-left: 100px;
+}
+.para15{
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 14px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+/* .text-para{
+    padding-left: 70px;
+} */
+.sinzo{
+    font-size: 30px;
+    font-weight: 700;
+}
+.sinzo1{
+    font-size: 12px;
+    font-weight: 500;
+}
+.ant{
+    font-size: 13px;
+    font-weight: 200;
+}
+.sinzo2{
+    padding-left: 600px;
+    padding-top: 150px;
+    font-size: 12px;
+    font-weight: 500;
+}
+.sinzo3{
+    padding-top: 200px;
+}
+.high{
+    text-transform: uppercase;
+}
+.parax{
+    margin-left: 50px;
+    font-size: 15px;
+    font-weight: 400;
+}
+.parax1{
+    font-size: 14px;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: #FF4820;
+    float: right;
+    margin-left: 50px;
+}
+.parax2{
+    font-size: 24px;
+    font-weight: 700;
+}
+.parat{
+    color: rgba(129, 175, 221, 1);
+    font-size: 16px;
+    font-weight: 400;
+}
+.sinzoo{
+    background: rgba(15, 66, 121, 1);
+}
+.end{
+    padding-left: 30px;
+}
+.prove{
+    font-size: 18px;
+    font-weight: 500;
+}
+.parax4{
+    font-size: 14px;
+    font-weight: 500;
+    color: rgba(129, 175, 221, 1);
+
+}
+.area-box{
+    padding-left: -10px;
+} 
+
+.area-box2{
+    padding-left: 30px;
+} 
+.bts{
+    padding: 10px;
+    background: none;
+    color: #fff;
+    border-color: #fff;
+}
+
+@media screen and (max-width: 992px) {
+    .hero{
+     margin-left: -150px;
+     margin-bottom: 40px ;
+    }
+    .text2{
+        width: 350px;
+    }
+    .para1{
+        font-size: 14px;
+        font-weight: 500;
+    }
+    .red {
+        color: #FF4820 !important;
+    }
+    .text-para{
+        margin-left: 100px;
+    }
+    .email{
+        width: 200px;
+    }
+    .small{
+        width: 100px;
+        margin-top: 20px;
+    }
+    .para{
+        float: none;
+        margin-left: 1px;
+        font-size: 15px;
+        font-weight: 400;
+    }
+    .icon{
+        padding-top: 5px;
+        margin-left: -300px;
+    }
+    .google, .slack, .at, .drop, .shop{
+        margin-left: 10px;
+    }
+    .row1{
+        margin-top: 50px;
+    }
+    .the{
+        width: 100%;
+        margin-top: -90px;
+    }
+    .text8{
+        margin-top: 450px;
+    }
+    .text5{
+        margin-top: 200px;
+        align-items: center;
+        margin-left: -350px;
+    }
+    .text6{
+        margin-top: 600px;
+        margin-left: -360px;
+    }
+    .text7{
+        margin-top: 15px;
+        margin-left: -360px;
+    }
+    .future{
+        width: 300%;
+    }
+    .group{
+        width: 90%;
+        height: 100%;
+    }
+    .beyond{
+        width: 80%;
+        padding-left: 100px;
+    }
+    .para5{
+        padding-left: 100px;
+    }
+    .para3{
+        padding-left: 100px;
+    }
+    .para4{
+        padding-left: 100px;
+    }
+    .text12{
+        margin-top: 30px;
+    }
+    .feature{
+        width: 120%;
+    }
+    .text-para{
+        margin-top: -100px;
+    }
+    #box{
+        width: 100%;
+        height: 200%;
+    }
+    .access{
+        margin-top: -50px;
+    }
+    .btn-get{
+        width: 35%;
+    }
+    .get{
+        margin-top: 65px;
+    }
+    .imm{
+        width: 100%;
+    }
+    .text16{
+        margin-top: -100px;
+    }
+    .text18{
+        margin-top: 100px;
+    }
+    .text20{
+        margin-top: -200px;
+    }
+    .text22{
+        margin-top: 80px;
+    }
+    .step{
+        width: 120%;
+        margin-left: -150px;
+    }
+    .sinzo2{
+        margin-left: -200px;
+    }
+    .end{
+        margin-left: -50px;
+    }
+    .para-side{
+       margin-left: -200px;
+    }
+    
+}
